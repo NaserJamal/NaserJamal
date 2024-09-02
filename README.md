@@ -42,3 +42,4 @@ I create full-stack applications, leveraging AI & Software development to build 
 - [Udemy Courses](https://www.udemy.com/user/naserjamal/)
 
 Let's connect and build something amazing together! 💻✨
+   - [LinkedIn](https://www.linkedin.com/in/naserjamal/)
